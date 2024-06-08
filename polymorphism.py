@@ -1,4 +1,6 @@
 #polymorphism code
+
+# Polynormphism - Many forms
 class Shapes:
     shapes = ''
     def __init__(self):

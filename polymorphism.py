@@ -1,3 +1,4 @@
+#polymorphism code
 class Shapes:
     shapes = ''
     def __init__(self):
